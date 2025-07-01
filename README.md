@@ -20,7 +20,8 @@ This prototype:
 
 ## Live Demo
 
-👉 [Click here to try the app on Streamlit Cloud]([https://YOUR-STREAMLIT-LINK-HERE](https://bimseg-app-wwdbdht2yxdcgrsaabwlkt.streamlit.app/))
+👉 [Click here to try the app on Streamlit Cloud]
+([https://YOUR-STREAMLIT-LINK-HERE](https://bimseg-app-wwdbdht2yxdcgrsaabwlkt.streamlit.app/))
 
 ---
 
