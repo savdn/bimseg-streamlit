@@ -73,4 +73,4 @@ excluded = summary[summary["Turbine_Excluded"]]["Cluster"].tolist()
 st.markdown(f"**Excluded Clusters** (too green or low): `{excluded}`")
 
 # --- FOOTER ---
-st.caption("Prototype by [Your Name] — Based on BIMSeg Concepts | Streamlit + Scikit-Learn + Plotly")
+st.caption("Prototype by Savitha Narayana — Based on BIMSeg Concepts | Streamlit + Scikit-Learn + Plotly")
