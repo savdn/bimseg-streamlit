@@ -1,4 +1,4 @@
-# AI-Based Geospatial Segmentation for Wind Turbine Planning
+# AI-Based Geospatial Segmentation 
 This project is a prototype inspired by my work on BIMSeg. It simulates AI-driven segmentation of geospatial data (e.g., buildings, vegetation, water) to support automated decision-making in wind turbine site selection.
 
 ✅ Built using **Streamlit**, **scikit-learn**, **NumPy**, **pandas**, and **Plotly**
